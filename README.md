@@ -1,16 +1,26 @@
-### Hi there 👋
+# 7ap
 
-<!--
-**7ap/7ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*i cannot finish a project for the life of me*
 
-Here are some ideas to get you started:
+## 💪 Strengths
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Low level development
+- Reverse engineering
+- Binary exploitation
+
+## 📜 Languages
+
+- Rust
+- C/C++
+- x86-64 Assembly (*rarely*)
+- JavaScript/TypeScript (*rarely*)
+- Python (*rarely*)
+
+## 🔗 Links
+
+- *im7ap* on [Twitter](https://twitter.com/im7ap)
+- *7ap* on [HackerOne](https://hackerone.com/7ap)
+
+## 📨 Contact
+
+I respond fairly quickly to direct messages. If you would like to escalate to a more professional conversation, please request my email.
