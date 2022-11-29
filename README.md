@@ -1,6 +1,6 @@
-# 7ap
+# > 7ap
 
-*i cannot finish a project for the life of me*
+I'm **7ap**, a hobbyist security researcher & bug bounty hunter.
 
 ## 💪 Strengths
 
@@ -12,15 +12,16 @@
 
 - Rust
 - C/C++
-- x86-64 Assembly (*rarely*)
+- x86/64 Assembly
 - JavaScript/TypeScript (*rarely*)
 - Python (*rarely*)
 
 ## 🔗 Links
 
-- *im7ap* on [Twitter](https://twitter.com/im7ap)
-- *7ap* on [HackerOne](https://hackerone.com/7ap)
+- *[7ap@mas.to](https://mas.to/@7ap)* on Mastodon
+- *[7ap](https://hackerone.com/7ap)* on HackerOne
+- *[im7ap](https://twitter.com/im7ap)* on Twitter
 
 ## 📨 Contact
 
-I respond fairly quickly to direct messages. If you would like to escalate to a more professional conversation, please request my email.
+If you need to contact me, do not hesitate to send me an email: `7ap@wearehackerone.com`
