@@ -1,4 +1,4 @@
-# > 7ap
+# 🧑‍💻 7ap
 
 I'm **7ap**, a hobbyist security researcher & bug bounty hunter.
 
