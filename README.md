@@ -1,12 +1,13 @@
 # 🧑‍💻 7ap
 
-I'm **7ap**, a hobbyist security researcher & bug bounty hunter.
+I'm **7ap**, a security researcher, bug bounty hunter, and hobbyist game hacker.
 
 ## 💪 Strengths
 
 - Low level development
 - Reverse engineering
 - Binary exploitation
+- Game hacking
 
 ## 📜 Languages
 
