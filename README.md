@@ -13,7 +13,7 @@ I'm **7ap**, a security researcher, bug bounty hunter, and hobbyist game hacker.
 
 - Rust
 - C/C++
-- x86/64 Assembly
+- x86 Assembly
 - JavaScript/TypeScript (*rarely*)
 - Python (*rarely*)
 
